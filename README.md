@@ -8,7 +8,7 @@ In week 4 van AI FiT Leiderschap bouw je hiermee je eigen AI Stack, laag voor la
 
 ## Installeren
 
-1. Download **[exo-intelligence-stack.zip](https://github.com/hpamike/exo-intelligence-stack/releases/latest/download/exo-intelligence-stack.zip)**. Niet uitpakken.
+1. Download **[exo-intelligence-stack.zip](https://github.com/hpamike/exo-intelligence-stack/raw/main/exo-intelligence-stack.zip)**. Niet uitpakken.
 2. Open Claude → **Customize → Skills → Add** en kies de ZIP.
 3. Zet de skill aan als er een schakelaar bij staat.
 4. Begin een **nieuw gesprek** en test met: *"Wat zijn de lagen van de AI Stack?"*
