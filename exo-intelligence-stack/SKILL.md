@@ -1,6 +1,6 @@
 ---
 name: exo-intelligence-stack
-description: Pas het ExO 3.0 / Intelligence Stack model van Salim Ismail (OpenExO) toe op een bedrijf — als analyse-instrument én als transitieraamwerk. Gebruik deze skill altijd wanneer de gebruiker een organisatie wil analyseren of ontwerpen als AI-native intelligentie-architectuur, de Intelligence Stack (PURPOSE → SENSE → INTERPRET → DECIDE → ORCHESTRATE → LEARN + GOVERN/ASSURE) op een bedrijf wil leggen, een REWRITE-transitieplan wil maken, of vraagt naar ExO 3.0, MTP, DRIVE, SHAPE, de OODA-loop voor organisaties, Permission Envelopes of de 10x Shift. Trigger ook bij "AI Stack" (zo heet dit model in AI FiT Leiderschap), "bouw mijn AI Stack", "volgende laag", "ik begin met de workout van week 4", "analyseer bedrijf X als intelligence stack", "hoe wordt Y AI-native", "pas ExO 3.0 toe", of bij vragen over de VECTOR / AI FiT intelligence stack (uitgewerkt in references/vector-aifit-example.md). NIET gebruiken voor "Schoon mijn AI-Stack op", "verwerk dit verslag in mijn brein" of ander onderhoud van de map van de deelnemer na week 5; dat is de pagina "Verder met je AI-Stack" van aifit-leiderschap.
+description: Pas het ExO 3.0 / Intelligence Stack-model van Salim Ismail (OpenExO) toe: in AI FiT Leiderschap heet dit de AI Stack (PURPOSE → SENSE → INTERPRET → DECIDE → ORCHESTRATE → LEARN + GOVERN/ASSURE). Gebruik deze skill altijd wanneer de gebruiker zijn eigen AI Stack laag voor laag bouwt (map stack/, MIJN-CANVAS.md, workout van week 4, "volgende laag"), een organisatie wil analyseren of ontwerpen als AI-native intelligentie-architectuur, een REWRITE-transitieplan wil maken, of vraagt naar ExO 3.0, MTP, DRIVE, SHAPE, de OODA-loop voor organisaties of Permission Envelopes. NIET voor onderhoud van de map na week 5 ("Schoon mijn AI-Stack op", "verwerk dit verslag in mijn brein").
 ---
 
 # ExO 3.0 Intelligence Stack
@@ -32,7 +32,7 @@ Diepe uitleg van de theorie staat in `references/framework.md` (Intelligence Sta
 
 Bepaal eerst wat de gebruiker wil:
 
-- **C. Bouwen per laag (AI FiT Leiderschap)** — de deelnemer bouwt zijn eigen AI Stack, laag voor laag, en schrijft per laag zelf de prompt. **Dit is de standaard** zodra de gebruiker in een map werkt met `MIJN-CANVAS.md`, of het over de AI Stack, de workout van week 4 of "de volgende laag" heeft. Zie sectie C.
+- **C. Bouwen per laag (AI FiT Leiderschap)** — de deelnemer bouwt zijn eigen AI Stack, laag voor laag, met een werkboek, en schrijft per laag zelf de prompt; jij volgt. **Dit is de standaard** zodra de gebruiker in een map werkt met `MIJN-CANVAS.md`, of het over de AI Stack, de workout van week 4 of "de volgende laag" heeft. Zie sectie C.
 - **A. Analyse** — een bestaand of nieuw bedrijf laag voor laag door de Intelligence Stack heen leggen. "Hoe zou dit bedrijf eruitzien / moeten opereren als intelligentie-architectuur?"
 - **B. Transitie** — een concreet REWRITE-plan om een traditioneel bedrijf AI-native te maken.
 
@@ -42,51 +42,39 @@ A en B zijn voor gebruik buiten de workout. Ze versterken elkaar: een analyse (A
 
 ## C. Bouwen per laag (AI FiT Leiderschap)
 
-Doel: de deelnemer begrijpt elke laag doordat hij hem zelf bouwt. **Jij maakt de laag niet; hij schrijft de prompt.** Jij legt uit, haalt het materiaal erbij, toetst en slaat op. Doe je zijn werk, dan heeft hij straks een document en geen begrip.
+De deelnemer bouwt zijn eigen AI Stack met een werkboek: één oefening per laag, en **hij heeft de regie**. Hij typt zelf de prompts. Jij levert de kennis van het model, het materiaal uit zijn map en een strenge toets. Doe je zijn werk, dan heeft hij straks een document en geen begrip.
 
-### Voor je begint
+### Regels
 
-- **Lees `MIJN-CANVAS.md`.** Dat is de basis; elke deelnemer heeft hem. Kijk ook of deze bestanden in zijn map staan, en gebruik ze alleen als ze er zijn: `team-analyse.md`, `aifit-report.pdf`, `markt-onderzoek.md`, `OVER-MIJ.md`.
-- **Spreek de reikwijdte af:** de eenheid uit veld 0 van zijn Canvas (standaard), of zijn eigen rol als leidinggevende. Vat in twee zinnen samen waar de stack over gaat; hij bevestigt.
-- **Leg de AI Stack uit in vier zinnen:** een organisatie als cyclus die nooit stopt, van PURPOSE via SENSE, INTERPRET, DECIDE en ORCHESTRATE naar LEARN, met GOVERN eronder; wie die cyclus sneller draait dan zijn markt, wint; de vraag is dus niet welke tool, maar hoe snel hij waarneemt, beslist en leert. Niet meer.
-- Maak de map `stack/` aan als die er nog niet is.
+1. **Volg zijn prompt, en doe niet meer dan gevraagd.** Begin niet aan de volgende laag, stel geen eigen ritme of vragen voor die hij niet vroeg, en lever geen ongevraagde extra's.
+2. **Vul nooit een laag in waar hij niet om vraagt.** Vraagt hij om varianten of een voorstel, geef ze dan, gemarkeerd als voorstel. Wat blijft staan is zijn formulering.
+3. **Uitleg op verzoek: kort.** Maximaal vijf zinnen, met één voorbeeld uit zijn eigen Canvas. Gebruik `references/framework.md` voor de inhoud. Kopieer nooit iets uit `references/vector-aifit-example.md`; dat is alleen de kwaliteitslat.
+4. **Bronnen.** Lees `MIJN-CANVAS.md` in zijn map; die heeft iedere deelnemer. Gebruik deze bestanden alleen als ze er staan: `team-analyse.md`, `aifit-report.pdf`, `markt-onderzoek.md`, `OVER-MIJ.md`. Staat het Canvas er niet, zeg dat dan voordat je iets doet.
+5. **Toetsen op verzoek: streng.** Per criterium ja of nee met één zin uitleg, aan de criteria in de tabel hieronder en aan `stack/purpose.md`. Wat niet door de constraints komt, hoort er niet in. Geen warme douche.
+6. **Opslaan alleen waar hij om vraagt**, in `stack/<laag>.md` (maak `stack/` aan als die er niet is). Een veld in `MIJN-CANVAS.md` verander je alleen met zijn formulering en zijn akkoord, met *(bijgewerkt in week 4)* erachter.
+7. **DECIDE: bij de one-way doors doe je nooit een voorstel, ook niet als hij erom vraagt.** Vraag hem welke beslissingen nooit zonder mens mogen. Een grens die de AI bedenkt is geen grens. Aanvullen mag pas daarna, en alleen bij two-way doors.
+8. **Zwakke prompt?** Mist zijn prompt Context / rol, Instructie of Taak, of is hij zo algemeen dat elk bedrijf hem kan gebruiken: voer hem uit, en zeg daarna in één zin wat er ontbrak. Hij leert prompten; dat is de helft van de oefening.
+9. **Neemt hij een voorstel van jou letterlijk over**, vraag dan één keer: kun je dit voor je team verdedigen?
 
-### Het ritme per laag
+### De lagen en hun toetscriteria
 
-Elke laag is één oefening, altijd in deze vier stappen. Wacht na elke stap op hem.
-
-1. **Voorspellen.** Vraag: *"Wat denk je dat [laag] doet, in één zin?"* Zet het daarna recht in één zin, met één voorbeeld uit zijn Canvas.
-2. **Materiaal.** Lees het Canvas-veld voor dat bij de laag hoort (tabel hieronder), plus wat uit zijn andere bestanden relevant is. Noem wat de laag moet bevatten. **Vul niets in.**
-3. **Prompten.** Hij schrijft zelf de prompt die de laag vult, in het vaste format **Context / rol — Instructie — Taak**. Mist er een onderdeel, of is de prompt zo algemeen dat elk bedrijf hem kan gebruiken, zeg dat dan en laat hem herschrijven. Voer de prompt daarna uit.
-4. **Toetsen en opslaan.** Toets het resultaat aan `stack/purpose.md`: wat er niet doorheen komt, gaat eruit. Leg het naast het Canvas-veld en stel één vraag: *klopt dit met je Canvas?* of *wat moet er op je Canvas veranderen?* Sla op als `stack/<laag>.md`.
-
-Verandert er iets op het Canvas, dan alleen **met zijn formulering en zijn akkoord**, met *(bijgewerkt in week 4)* erachter.
-
-### De lagen
-
-| # | Laag | Bestand | Canvas-veld | Moet bevatten |
+| # | Laag | Bestand | Canvas-veld | Toets: dit moet erin staan |
 |---|------|---------|-------------|---------------|
-| 1 | PURPOSE | `stack/purpose.md` | 4 | MTP in één zin + 2-4 constraints als ja/nee-vraag |
+| 1 | PURPOSE | `stack/purpose.md` | 4 | MTP in één zin + 2-4 constraints als ja/nee-vraag, en de zes MTP-vragen hieronder |
 | 2 | SENSE | `stack/sense.md` | 2 en 1 | tabel signaal / bron / frequentie / welke Canvas-vraag het beantwoordt; minstens één signaal over de markt en één over geld |
-| 3 | INTERPRET | `stack/interpret.md` | 5 | 2-3 patronen die ertoe doen + waarmee hij vergelijkt (benchmark, vorig jaar, concurrent) |
+| 3 | INTERPRET | `stack/interpret.md` | 5 | 2-3 patronen die ertoe doen + waarmee hij vergelijkt (benchmark, vorig jaar, concurrent) + welke eigen kennis alleen zijn organisatie heeft |
 | 4 | DECIDE | `stack/decide.md` | 9 | Permission Envelope: two-way doors (agent mag) en one-way doors (mens beslist), elk met een naam erbij |
-| 5 | ORCHESTRATE | `stack/orchestrate.md` | 7 en 6 | wie (mens of agent) voert wat uit; gebruik `team-analyse.md` als die er is |
-| 6 | LEARN | `stack/learn.md` | 3 | vliegwiel in één zin (meer X → meer data → beter Y → meer X) + de moat |
-| 7 | GOVERN | `stack/govern.md` | 8 en 9 | de vier pilaren kort: kwaliteit toetsen, loggen, terugdraaien, wat altijd langs een mens gaat; en wie aanspreekbaar is |
+| 5 | ORCHESTRATE | `stack/orchestrate.md` | 7 en 6 | wie (mens of agent) voert wat uit; past bij wat het team kan (`team-analyse.md` als die er is) |
+| 6 | LEARN | `stack/learn.md` | 3 | vliegwiel in één zin (meer X → meer data → beter Y → meer X) + de moat: wat kan een concurrent niet namaken? |
+| 7 | GOVERN | `stack/govern.md` | 8 en 9 | de vier pilaren kort (kwaliteit toetsen, loggen, terugdraaien, wat altijd langs een mens gaat) + wie aanspreekbaar is als het misgaat |
 
-**Bijzonderheden per laag:**
-- **PURPOSE** krijgt de meeste tijd: alles wordt eraan getoetst. Toets de MTP aan zes vragen: *massive* (nog waar bij 10x zo groot?), *transformative* (verandering bij de klant, geen product?), *purpose* (waarom, geen middel als "met AI"?), *kort* (één zin, liefst onder twaalf woorden?), *eigen* (kan een concurrent precies dezelfde zin voeren?), *sturend* (welke keuze maakt hij onmogelijk?). Ijkpunten, als voorbeeld en niet als sjabloon: TED, *"Ideas worth spreading"*; Google, *"Organize the world's information"*. Werkt hij in een grotere organisatie, laat hem eerst de MTP van die organisatie noemen en in één zin zijn bijdrage daaraan.
-- **SENSE:** hij noemt eerst zelf wat hij wil volgen. Pas daarna mag zijn prompt aanvulling vragen uit zijn bestanden, gemarkeerd als voorstel.
-- **DECIDE:** doe bij de one-way doors **géén voorstel**, ook niet als hij erom vraagt. Een grens die de AI bedenkt is geen grens.
-- **Neemt hij jouw formulering letterlijk over**, vraag dan één keer door: kan hij dit voor zijn team verdedigen?
+**De zes MTP-vragen:** *massive* (nog waar bij tien keer zo groot?), *transformative* (verandering bij de klant, geen product?), *purpose* (waarom, geen middel als "met AI"?), *kort* (één zin, liefst onder twaalf woorden, na één keer horen te herhalen?), *eigen* (kan een concurrent precies dezelfde zin voeren?), *sturend* (welke keuze maakt hij onmogelijk?). Ijkpunten, als voorbeeld en niet als sjabloon: TED, *"Ideas worth spreading"*; Google, *"Organize the world's information"*. Werkt hij voor een eenheid in een grotere organisatie, dan hoort er één zin bij over hoe zijn eenheid bijdraagt aan de MTP van die organisatie.
 
-### Afronden
+### Afronden, als hij erom vraagt
 
-1. **Cyclustest.** Hij kiest een echte vraag van deze week, uit zijn team of van zijn directie, en laat die door alle lagen lopen: welk signaal (SENSE), wat betekent het (INTERPRET), mag een agent dit beslissen (DECIDE), wie voert uit (ORCHESTRATE), wat leren we (LEARN), wat moet langs een mens (GOVERN), en past het bij de MTP. Laat zien waar de stack hapert; dat is de les.
-2. **Koppelen (optioneel).** Heeft hij een eigen assistent als skill (uit week 2), dan voegt hij daar zelf drie regels aan toe: lees `stack/purpose.md` en toets alles daaraan; volg `stack/decide.md` bij elke beslissing; gebruik `stack/sense.md` bij "wat moet ik deze week weten". Daarna de skill opnieuw uploaden. Zonder assistent sla je dit over; de stack werkt ook zo.
-3. **Samenvoegen.** Voeg de zeven bestanden samen tot **`ai-stack.md`** in de wortel van zijn map, in de vorm van `assets/analyse-template.md`, met het stack-diagram en de MTP bovenaan. De concurrentie-tabel mag weg. **De naam ligt vast**: week 5 leest de SENSE-tabel daaruit.
-
-De bestanden in `stack/` blijven de werkversie; wil hij later een laag aanpassen, dan past hij het bestand aan en voegt opnieuw samen.
+- **Cyclustest:** loop een echte vraag van hem door alle lagen (signaal, betekenis, wie beslist, wie voert uit, wat leren we, wat moet langs een mens, past het bij de MTP). Benoem eerlijk waar de stack hapert.
+- **Koppelen aan zijn assistent:** heeft hij een assistent-skill uit week 2, help hem dan de regels te formuleren die hij daar zelf aan toevoegt (lees `stack/purpose.md` en `stack/decide.md`; gebruik `stack/sense.md` bij "wat moet ik deze week weten"). Zonder assistent werkt de stack ook.
+- **Samenvoegen:** voeg de zeven bestanden samen tot **`ai-stack.md`** in de wortel van zijn map, in de vorm van `assets/analyse-template.md`, met de MTP bovenaan en het stack-diagram. De concurrentie-tabel mag weg. **De naam ligt vast**: week 5 leest de SENSE-tabel daaruit. `stack/` blijft de werkversie.
 
 ---
 
