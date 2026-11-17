@@ -1,6 +1,14 @@
 ---
 name: exo-intelligence-stack
-description: Pas het ExO 3.0 / Intelligence Stack-model van Salim Ismail (OpenExO) toe: in AI FiT Leiderschap heet dit de AI Stack (PURPOSE → SENSE → INTERPRET → DECIDE → ORCHESTRATE → LEARN + GOVERN/ASSURE). Gebruik deze skill altijd wanneer de gebruiker zijn eigen AI Stack opzet of verbetert ("maak mijn MTP", "vul de lagen in", "pas toe op mijn HR-vraagstuk", "verbeter laag X", map stack/ of ai-stack.md), een organisatie wil analyseren of ontwerpen als AI-native intelligentie-architectuur, een REWRITE-transitieplan wil maken, of vraagt naar ExO 3.0, MTP, DRIVE, SHAPE, de OODA-loop voor organisaties of Permission Envelopes. NIET voor het opschonen of herstructureren van een bestaande map ("schoon mijn AI-Stack op", "verwerk dit verslag in mijn brein").
+description: >-
+  Pas het ExO 3.0 Intelligence Stack-model van Salim Ismail (OpenExO) toe, in AI FiT
+  Leiderschap de AI Stack genoemd (PURPOSE, SENSE, INTERPRET, DECIDE, ORCHESTRATE,
+  LEARN en GOVERN). Gebruik deze skill wanneer de gebruiker zijn eigen AI Stack opzet
+  of verbetert (maak mijn MTP, vul de lagen in, pas toe op mijn HR-vraagstuk, verbeter
+  laag X, map stack/ of ai-stack.md), een organisatie wil analyseren als AI-native
+  intelligentie-architectuur, een REWRITE-transitieplan wil maken, of vraagt naar ExO 3.0,
+  MTP, DRIVE, SHAPE, de OODA-loop of Permission Envelopes. Niet voor het opschonen of
+  herstructureren van een bestaande map.
 ---
 
 # ExO 3.0 Intelligence Stack
