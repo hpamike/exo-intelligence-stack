@@ -1,6 +1,6 @@
 ---
 name: exo-intelligence-stack
-description: Pas het ExO 3.0 / Intelligence Stack-model van Salim Ismail (OpenExO) toe: in AI FiT Leiderschap heet dit de AI Stack (PURPOSE → SENSE → INTERPRET → DECIDE → ORCHESTRATE → LEARN + GOVERN/ASSURE). Gebruik deze skill altijd wanneer de gebruiker zijn eigen AI Stack opzet of verbetert ("maak mijn MTP", "genereer de lagen", "wat mist er nog", "start sensing", "verbeter laag X", map stack/ of ai-stack.md), een organisatie wil analyseren of ontwerpen als AI-native intelligentie-architectuur, een REWRITE-transitieplan wil maken, of vraagt naar ExO 3.0, MTP, DRIVE, SHAPE, de OODA-loop voor organisaties of Permission Envelopes. NIET voor het opschonen of herstructureren van een bestaande map ("schoon mijn AI-Stack op", "verwerk dit verslag in mijn brein").
+description: Pas het ExO 3.0 / Intelligence Stack-model van Salim Ismail (OpenExO) toe: in AI FiT Leiderschap heet dit de AI Stack (PURPOSE → SENSE → INTERPRET → DECIDE → ORCHESTRATE → LEARN + GOVERN/ASSURE). Gebruik deze skill altijd wanneer de gebruiker zijn eigen AI Stack opzet of verbetert ("maak mijn MTP", "vul de lagen in", "pas toe op mijn HR-vraagstuk", "verbeter laag X", map stack/ of ai-stack.md), een organisatie wil analyseren of ontwerpen als AI-native intelligentie-architectuur, een REWRITE-transitieplan wil maken, of vraagt naar ExO 3.0, MTP, DRIVE, SHAPE, de OODA-loop voor organisaties of Permission Envelopes. NIET voor het opschonen of herstructureren van een bestaande map ("schoon mijn AI-Stack op", "verwerk dit verslag in mijn brein").
 ---
 
 # ExO 3.0 Intelligence Stack
@@ -32,7 +32,7 @@ Diepe uitleg van de theorie staat in `references/framework.md` (Intelligence Sta
 
 Bepaal eerst wat de gebruiker wil:
 
-- **C. Eigen AI Stack bouwen (AI FiT Leiderschap)** — de gebruiker zet zijn eigen AI Stack op: hij geeft input, jij stelt elke laag in en checkt die met hem. **Dit is de standaard** zodra de gebruiker het over zijn eigen AI Stack, `stack/`, `ai-stack.md`, zijn MTP of sensing heeft. Zie sectie C.
+- **C. Eigen AI Stack bouwen (AI FiT Leiderschap)** — de gebruiker zet zijn eigen AI Stack op: hij geeft input, jij stelt de lagen in en checkt ze in één ronde met hem. **Dit is de standaard** zodra de gebruiker het over zijn eigen AI Stack, `stack/`, `ai-stack.md`, zijn MTP of sensing heeft. Zie sectie C.
 - **A. Analyse** — een bestaand of nieuw bedrijf laag voor laag door de Intelligence Stack heen leggen. "Hoe zou dit bedrijf eruitzien / moeten opereren als intelligentie-architectuur?"
 - **B. Transitie** — een concreet REWRITE-plan om een traditioneel bedrijf AI-native te maken.
 
@@ -42,38 +42,30 @@ A en B zijn voor gebruik buiten de workout. Ze versterken elkaar: een analyse (A
 
 ## C. Eigen AI Stack bouwen (AI FiT Leiderschap)
 
-De deelnemer geeft input, jij stelt de laag in, en daarna check je de laag met hem. Welke bronnen je leest (bestanden, website, documenten) staat in zijn prompt; gebruik precies die bronnen en verzin niets over zijn organisatie. Hij beslist wat blijft staan.
-
-### Werkwijze per laag: input → instellen → checken
-
-1. **Input.** Lees de bronnen en antwoorden uit zijn prompt. Ontbreekt iets wezenlijks, schrijf dan "onbekend" en neem het mee in de check.
-2. **Instellen.** Stel de laag zelf in volgens de toetscriteria hieronder. Concreet en bedrijfsspecifiek, in gewone taal. Markeer elke aanname die niet uit zijn bronnen komt met **(?)**.
-3. **Checken.** Laat de laag kort zien en stel **één checkvraag**: de vraag waarvan het antwoord de laag het meest verbetert. Wacht op zijn antwoord, verwerk het, en sla pas dan op. Wat hij niet bevestigt, blijft (?).
+De deelnemer geeft input, jij stelt de lagen in en checkt ze met hem. Welke bronnen je leest (bestanden, website, documenten) staat in zijn prompt; gebruik precies die bronnen en verzin niets over zijn organisatie. **Doel: één keer een werkende stack.** Snel doorpakken: één ronde aanpassen, dan akkoord. Verfijnen doet hij later, met zijn team.
 
 ### Regels
 
-1. **Volg zijn prompt.** Doe wat hij vraagt, niet meer. Geen ongevraagde extra's.
-2. **One-way doors komen altijd van hem.** Bij beslissingen die je niet kunt terugdraaien doe je nooit een voorstel, ook niet als hij erom vraagt. Staan ze in zijn prompt, gebruik dan precies die. Staan ze er niet, dan is dat je checkvraag bij DECIDE. Two-way doors stel je wel zelf in.
-3. **Uitleg: kort.** Maximaal vijf zinnen, met één voorbeeld uit zijn eigen bronnen. Gebruik `references/framework.md` voor de inhoud. Kopieer nooit iets uit `references/vector-aifit-example.md`; dat is alleen de kwaliteitslat.
-4. **Toetsen: streng.** Per criterium ja of nee met één zin uitleg, aan de tabel hieronder en aan `stack/purpose.md`. Wat niet door de constraints komt, hoort er niet in. Geen warme douche.
-5. **Neemt hij alles zonder wijziging over**, vraag dan één keer: kun je dit voor je team verdedigen?
-6. **Zwakke prompt?** Mist zijn prompt Context / rol, Instructie of Taak, of is hij zo algemeen dat elk bedrijf hem kan gebruiken: voer hem uit, en zeg daarna in één zin wat er ontbrak.
-7. **Bestanden van hem verander je alleen met zijn akkoord.** Jouw eigen output sla je op in `stack/`, `ai-stack.md` en `sensing/`.
+1. **Volg zijn prompt.** Doe wat hij vraagt, niet meer.
+2. **Markeer twijfel met (?)** en schrijf "onbekend" waar informatie ontbreekt. (?) mag blijven staan na akkoord; dat is huiswerk.
+3. **Eén ronde, dan akkoord.** Stel één vraag, verwerk het antwoord, vraag akkoord en sla op. Geen tweede ronde tenzij hij erom vraagt.
+4. **One-way doors komen altijd van hem.** Bij beslissingen die je niet kunt terugdraaien doe je nooit een voorstel. Staan ze in zijn prompt, gebruik die. Staan ze er niet, vraag er dan in je ene vraagronde naar. Two-way doors stel je zelf in.
+5. **Uitleg kort**: maximaal vijf zinnen, met een voorbeeld uit zijn bronnen. Gebruik `references/framework.md`; kopieer nooit uit `references/vector-aifit-example.md`.
+6. **Strenge toets alleen op verzoek** (of thuis): per criterium ja/nee met één zin, aan de tabel hieronder en `stack/purpose.md`.
+7. **Bestanden van hem verander je alleen met zijn akkoord.** Jouw output staat in `stack/`, `ai-stack.md` en `sensing/`.
 
-### De oefeningen
+### De drie stappen
 
-**Oefening 1: context en PURPOSE.** Lees zijn bronnen. Leg desgevraagd in maximaal vijf zinnen uit wat een MTP is. Stel PURPOSE in: één MTP (geen middel zoals "met AI", liefst onder twaalf woorden) met 2-4 constraints als ja/nee-vraag. Check met hem en sla op in `stack/purpose.md`.
+**Stap 1: MTP.** Lees zijn bronnen. Leg in twee zinnen uit wat een MTP is. Geef drie varianten (geen middel zoals "met AI", maximaal twaalf woorden), elk met 2-3 constraints als ja/nee-vraag. Vraag welke het beste past, pas zijn keuze in één ronde aan en sla op in `stack/purpose.md`.
 
-**Oefening 2a: de andere lagen.** Stel SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN in, één voor één, steeds met input → instellen → checken. Begin elke laag met één zin over wat de laag doet. Sla elke laag op in `stack/<laag>.md`. Voeg na de laatste laag alles samen tot **`ai-stack.md`** in de vorm van `assets/analyse-template.md`, met de MTP bovenaan en het stack-diagram. De concurrentie-tabel mag weg. **De naam `ai-stack.md` ligt vast**; sensing en vervolgstappen lezen daaruit. `stack/` blijft de werkversie.
+**Stap 2: de stack.** Vul SENSE, INTERPRET, DECIDE, ORCHESTRATE, LEARN en GOVERN in één keer volledig in, per laag één zin over wat de laag doet en dan de invulling volgens de toetscriteria. Markeer twijfel met (?). Vraag één keer welke laag het minst klopt (en de one-way doors als die ontbreken). Verwerk het antwoord, vraag akkoord, en sla op in `stack/<laag>.md` en **`ai-stack.md`** (vorm van `assets/analyse-template.md`, MTP bovenaan, stack-diagram, zonder concurrentie-tabel). De naam `ai-stack.md` ligt vast.
 
-**Oefening 2b: wat mist er nog?** Toets de MTP aan de zes MTP-vragen en elke laag aan de toetscriteria. Noem de drie grootste gaten of (?)-aannames, stel per gat één vraag, één voor één, en verwerk zijn antwoorden in `stack/` en `ai-stack.md`.
+**Stap 3: toepassen op een vraagstuk.** Lees `ai-stack.md` en het vraagstuk uit zijn prompt (bijvoorbeeld een HR-vraag: vacatures van concurrenten, arbeidsmarkttrends, verzuimbenchmark). Loop licht door alle lagen, maximaal twee regels per laag: welke signalen en bronnen, waarmee vergelijken, wat mag de agent en wat beslist een mens, wie doet wat, wat leren we, wat moet langs een mens. Gebruik alleen openbare bronnen, nooit persoonsgegevens of eigen gezondheids- of verzuimdata. Vraag één keer om eenvoudige openbare input (bijvoorbeeld de sites van drie concurrenten) en doe zelf suggesties. Na akkoord: maak een geplande taak met een frequentie die past bij de bron, die het rapport (bron en datum per punt, wat het betekent, past het bij de MTP, maximaal één A4) opslaat in `sensing/<onderwerp>-JJMMDD.md`. Draai hem direct één keer.
 
-**Oefening 3: eerste sensing.** Scan alleen de signalen en concurrenten uit de SENSE-tabel in `ai-stack.md`. Noem bij elk punt bron en datum, wat het betekent en of het past bij de MTP. Zeg het als er niets nieuws is. Maximaal één A4. Sla op in `sensing/JJMMDD.md`. Vraagt hij om een routine, maak dan een geplande taak met dezelfde opdracht.
-
-**Thuis verbeteren.**
-- *"Verbeter laag X"*: stel eerst maximaal drie vragen, vervang (?) door wat hij echt weet, toets opnieuw, en werk `stack/` en `ai-stack.md` bij.
-- *"Verwerk mijn sensingrapporten"*: lees `sensing/`, benoem welke signalen bruikbaar waren en welke ruis, en stel voor hoe SENSE moet veranderen. Pas aan na zijn akkoord.
-- *Cyclustest*: loop een echte vraag van hem door alle lagen (signaal, betekenis, wie beslist, wie voert uit, wat leren we, wat moet langs een mens, past het bij de MTP). Benoem eerlijk waar de stack hapert.
+**Thuis verfijnen.**
+- *"Verbeter laag X"*: stel maximaal drie vragen, vervang (?) door wat hij echt weet, toets, en werk `stack/` en `ai-stack.md` bij.
+- *"Verwerk mijn sensingrapporten"*: benoem welke signalen bruikbaar waren en welke ruis, en stel aanpassingen in SENSE voor.
+- *Cyclustest*: loop een echte vraag door alle lagen en benoem eerlijk waar de stack hapert.
 
 ### De lagen en hun toetscriteria
 
