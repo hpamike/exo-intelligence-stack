@@ -4,7 +4,7 @@ Een Claude Skill die Claude leert werken met de **AI Stack**: het model van Sali
 
 PURPOSE → SENSE → INTERPRET → DECIDE → ORCHESTRATE → LEARN, met GOVERN eronder.
 
-In week 4 van AI FiT Leiderschap bouw je hiermee je eigen AI Stack, laag voor laag, op basis van je `MIJN-CANVAS.md`.
+In AI FiT Leiderschap zet je hiermee je eigen AI Stack op. Jij geeft input (in je prompt verwijs je naar je eigen bronnen), de skill stelt elke laag in en checkt die met jou. Daarna start je je eerste sensing en verbeter je de stack thuis verder.
 
 ## Installeren
 
@@ -17,7 +17,7 @@ Let op: gebruik de ZIP hierboven, niet de groene knop "Code → Download ZIP". D
 
 ## Inhoud
 
-- `SKILL.md` — instructies, met taak C: bouwen per laag
+- `SKILL.md` — instructies, met taak C: eigen AI Stack opzetten (input → instellen → checken)
 - `references/` — de theorie, REWRITE en een uitgewerkt voorbeeld (VECTOR / AI FiT)
 - `assets/analyse-template.md` — de invulstructuur
 
